@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/tuds8/frontend-flutter-app.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/tuds8/backend-flask-app.git
